@@ -1,0 +1,2 @@
+# JAVA-Text-Summerizer
+Automatic text summarization is the process of summarization without human involvement. Text summarization is mainly of two kinds. They are extractive summarization and abstractive summarization. In case of extractive summarization, the important sentences from the documents are combined and used as summaries, whereas, in the abstractive summarization is the process in which the abstract of the document is created. Here the sentences have been categorized based on the sentiment analysis of the sentences and then summarized it.
